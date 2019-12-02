@@ -1,6 +1,6 @@
 # Growing tree
 
-This fork of brespy's growing tree adds the ability to draw a cloud of leaves using the mouse. Leaves can then be added to the tree, growing additional branches.
+This fork adds the ability to draw a cloud of leaves using the mouse to draw a blob mesh shape. Leaves can then be added to the tree, growing additional branches. 
 
 ![A procedural growing tree](https://raw.githubusercontent.com/bryanrtboy/unity-growing-tree/master/blotTree.gif)
 

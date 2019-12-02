@@ -429,6 +429,14 @@ public class Generator : MonoBehaviour
         _extremities.Clear();
         _attractors.Clear();
         _activeAttractors.Clear();
+        TreeDrawer t = FindObjectOfType<TreeDrawer>();
+        if (t)
+            t.enabled = false;
+
+        //Clean up any stray indicators
+        SphereCollider[] spheres = FindObjectsOfType<SphereCollider>();
+        foreach (SphereCollider s in spheres)
+            Destroy(s.gameObject);
 
         this.enabled = false;
 

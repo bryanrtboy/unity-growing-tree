@@ -11,5 +11,5 @@ If you want details on the algorithm, please check the article.
 ![Steps of generation](https://ciphered.xyz/wp-content/uploads/2019/09/Thumbnail.gif)
 
 # Sources
-[Unity-Teddy by Mattatz](https://github.com/mattatz/unity-teddy) for the mesh drawing application
-[Random Placement inside Mesh](https://www.youtube.com/watch?v=G5_ssRtKSEA&feature=youtu.be) from Tall Guy/Anisoropos found [here](https://answers.unity.com/questions/296458/random-position-inside-mesh.html)
+* [Unity-Teddy by Mattatz](https://github.com/mattatz/unity-teddy) for the mesh drawing application
+* [Random Placement inside Mesh](https://www.youtube.com/watch?v=G5_ssRtKSEA&feature=youtu.be) from Tall Guy/Anisoropos found [here](https://answers.unity.com/questions/296458/random-position-inside-mesh.html)
